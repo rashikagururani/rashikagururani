@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @rashikagururani
 - 👀 I’m interested in ... programming using python.
 - 🌱 I’m currently learning ...how to code properly.
-- 💞️ I’m looking to collaborate on ...differnt projects.
+- 💞️ I’m looking to collaborate on ...different projects.
 - 📫 How to reach me ...@rashi6301@gmail.com
 
 <!---
